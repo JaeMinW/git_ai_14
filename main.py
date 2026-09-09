@@ -8,3 +8,4 @@ def mian():
     print("for profile")
     print("C")
     print("E")
+    print("B")
