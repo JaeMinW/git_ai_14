@@ -1,1 +1,2 @@
-print("Profile informateion")
+print("Profile information")
+print("F")
