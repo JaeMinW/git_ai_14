@@ -11,3 +11,6 @@ def mian():
     print("C")
     print("E")
     print("B")
+
+def payment():
+    print("payment function")
